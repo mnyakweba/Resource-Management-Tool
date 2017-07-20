@@ -22,6 +22,7 @@
 		<input type="submit" name="submit">
 		<code><br>
 		<br>
+			
 		<p>Computed Results</p>
 		<span id="cartegory"><port class="computed" class="port">Total Stock Price:</port> <output id="total_stock_price"></output></span>
 		<br>
