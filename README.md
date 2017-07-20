@@ -1,6 +1,7 @@
 # ERMT
 this is an opensource enterprise resource management tool.
 modules include;
+<pre>
 
 *_______________*
 UI_Point Of Sale..
@@ -25,3 +26,5 @@ BD_Inventory..
   >call alert when stock = minimum
   >render re-order form onclick
   >fetch supplier contact
+
+</pre>
