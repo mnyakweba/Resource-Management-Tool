@@ -1,0 +1,53 @@
+a,
+html,
+body
+{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+	font-family: candara, tahoma;
+	font-size: 12px;
+}
+
+h2
+{
+	text-align: center;
+}
+
+div#main
+{
+	margin: auto;
+	max-width: 90%;
+	padding: 20px;
+	background-color: silver;
+	
+}
+
+#inventory
+{
+	background-color: white;
+	padding: 10px;
+	color: blue;
+}
+
+span#cartegory
+{
+	display: inline-block;
+	padding-bottom: 10px;
+}
+
+.port
+{
+	padding-right: 10px;
+}
+
+input
+{
+	border-bottom: thin solid black;
+	border-radius: 4px;	
+}
+
+input:focus {
+
+    border: 1px dashed brown;
+}
